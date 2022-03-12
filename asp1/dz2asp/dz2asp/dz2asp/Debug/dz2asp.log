@@ -1,0 +1,26 @@
+﻿  dz2asp.c
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(30): warning C4013: 'gets' undefined; assuming extern returning int
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(157): warning C4101: 'duz': unreferenced local variable
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(157): warning C4101: 'i': unreferenced local variable
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(215): warning C4047: 'function': 'node **' differs in levels of indirection from 'node *(*)[100]'
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(215): warning C4024: 'dodajured': different types for formal and actual parameter 4
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(216): warning C4047: 'function': 'node **' differs in levels of indirection from 'node *(*)[100]'
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(216): warning C4024: 'dodajured': different types for formal and actual parameter 4
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(218): warning C4047: 'function': 'node **' differs in levels of indirection from 'node *(*)[100]'
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(218): warning C4024: 'obrisiuredu': different types for formal and actual parameter 3
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(232): warning C4047: 'function': 'node **' differs in levels of indirection from 'node *(*)[100]'
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(232): warning C4024: 'dodajured': different types for formal and actual parameter 4
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(233): warning C4047: 'function': 'node **' differs in levels of indirection from 'node *(*)[100]'
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(233): warning C4024: 'dodajured': different types for formal and actual parameter 4
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(234): warning C4047: 'function': 'node **' differs in levels of indirection from 'node *(*)[100]'
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(234): warning C4024: 'dodajured': different types for formal and actual parameter 4
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(330): warning C4047: 'function': 'node *' differs in levels of indirection from 'node *(*)[100]'
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(330): warning C4024: 'rezultat': different types for formal and actual parameter 5
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(341): warning C4047: 'function': 'node *' differs in levels of indirection from 'node *(*)[100]'
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(341): warning C4024: 'kolo': different types for formal and actual parameter 5
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(350): warning C4047: 'function': 'node *' differs in levels of indirection from 'node *(*)[100]'
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(350): warning C4024: 'ispisi': different types for formal and actual parameter 4
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(353): warning C4047: 'function': 'node *' differs in levels of indirection from 'node *(*)[100]'
+d:\dz2asp\dz2asp\dz2asp\dz2asp.c(353): warning C4024: 'obrisi': different types for formal and actual parameter 4
+  LINK : D:\dz2asp\dz2asp\Debug\dz2asp.exe not found or not built by the last incremental link; performing full link
+  dz2asp.vcxproj -> D:\dz2asp\dz2asp\Debug\dz2asp.exe

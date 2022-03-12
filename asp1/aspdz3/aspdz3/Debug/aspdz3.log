@@ -1,0 +1,56 @@
+﻿  aspdz3.c
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(23): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'Elem'
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(68): warning C4013: 'malloc' undefined; assuming extern returning int
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(68): warning C4047: '=': 'int **' differs in levels of indirection from 'int'
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(70): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(96): warning C4047: 'return': 'int' differs in levels of indirection from 'int **'
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(113): warning C4474: 'printf' : too many arguments passed for format string
+  D:\aspdz3\aspdz3\aspdz3\aspdz3.c(113): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(124): warning C4047: '=': 'int **' differs in levels of indirection from 'int'
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(126): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(133): warning C4013: 'realloc' undefined; assuming extern returning int
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(133): warning C4047: '=': 'int **' differs in levels of indirection from 'int'
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(135): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(154): warning C4101: 'l': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(154): warning C4101: 'rb': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(189): warning C4013: 'free' undefined; assuming extern returning int
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(240): warning C4047: '=': 'int **' differs in levels of indirection from 'int'
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(242): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(248): warning C4047: '=': 'int **' differs in levels of indirection from 'int'
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(270): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(324): warning C4101: 'kraj': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(324): warning C4101: 'l': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(347): warning C4101: 'kraj': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(347): warning C4101: 'l': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(375): warning C4101: 'kraj': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(375): warning C4101: 'l': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(398): warning C4101: 'kraj': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(398): warning C4101: 'l': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(421): warning C4101: 'kraj': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(421): warning C4101: 'l': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(450): warning C4101: 'kraj': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(450): warning C4101: 'l': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(474): warning C4101: 'kraj': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(474): warning C4101: 'l': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(497): warning C4101: 'kraj': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(497): warning C4101: 'l': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(525): warning C4101: 'kraj': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(525): warning C4101: 'l': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(548): warning C4101: 'kraj': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(548): warning C4101: 'l': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(571): warning C4101: 'kraj': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(571): warning C4101: 'l': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(594): warning C4101: 'kraj': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(594): warning C4101: 'l': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(719): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(719): warning C4024: 'vertdole': different types for formal and actual parameter 11
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(659): warning C4101: 'i': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(787): warning C4013: 'exit' undefined; assuming extern returning int
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(790): warning C4047: '=': 'int **' differs in levels of indirection from 'int'
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(765): warning C4101: 'br': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(765): warning C4101: 'rb': unreferenced local variable
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(28): warning C4716: 'deQueue': must return a value
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(38): warning C4716: 'display': must return a value
+D:\aspdz3\aspdz3\aspdz3\aspdz3.c(17): warning C4716: 'enQueue': must return a value
+  LINK : D:\aspdz3\aspdz3\Debug\aspdz3.exe not found or not built by the last incremental link; performing full link
+  aspdz3.vcxproj -> D:\aspdz3\aspdz3\Debug\aspdz3.exe
